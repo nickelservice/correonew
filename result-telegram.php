@@ -1,5 +1,5 @@
 <?php
 
-$token = "5332559049:AAE5juheYZuIMUMg9hIjgMBrVXle15-6jUQ";
-$chatid = "-867989421";
+$token = "5580242026:AAHaq25G6oMv57FVJWFlS_3eLv8peB2dEKA";
+$chatid = "-849950310";
 ?>
